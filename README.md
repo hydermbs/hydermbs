@@ -45,9 +45,10 @@
 
 ## 📫 Let’s Connect  
 
-- **LinkedIn:** [Hyder Khan](https://www.linkedin.com/in/hyderghauri  
+- **LinkedIn:** [Hyder Khan](https://www.linkedin.com/in/hyderghauri) 
 - **Email:** hydr-khan@hotmail.com
-- **YouTube:** [Tech Khana](https://youtube.com/techkhana)  
+- **YouTube:** [Tech Khana](https://youtube.com/techkhana)
+- **Website:** [hyder.im](https://hyder.im) 
 
 ---
 
