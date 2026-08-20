@@ -1,61 +1,35 @@
+# Hi, I'm Hyder Khan 👋
 
+Data Engineer building distributed pipelines, scrapers, and automation systems — from real-time inventory sync engines to market-analysis dashboards.
 
-# Hi there! 👋 I'm Hyder Khan  
+## Featured projects
 
-🎯 **Data Engineer | Tech Enthusiast | Problem Solver**  
-💻 Passionate about turning raw data into actionable insights, building efficient pipelines, and crafting elegant solutions to complex problems.  
+**[omni-channel-inventory-sync](https://github.com/hydermbs/omni-channel-inventory-sync)** — Event-driven inventory sync engine using distributed locks and idempotent processing to eliminate omnichannel overselling (FastAPI + Redis).
 
----
+**[ecommerce-order-flow](https://github.com/hydermbs/ecommerce-order-flow)** — Production Shopify order-fulfillment pipeline: webhook ingestion, queued processing, and courier booking (TypeScript + BullMQ + Postgres).
 
-## 🚀 About Me  
+**[psx-advance-analysis](https://github.com/hydermbs/psx-advance-analysis)** — Automated technical-analysis dashboard with pattern detection and BUY/SELL/HOLD signal scoring (FastAPI + React).
 
-- 🌟 Currently working as a **Data Engineer**.  
-- 🔧 Experienced in **data scraping**, having worked on extracting and processing thousands of data points from various platforms.  
-- 🤖 Developed automation workflows for **mobile app unpublishing** on Google Play Store.  
-- 📊 Passionate about **data transformation, visualization**, and **scalable data architectures**.  
-- 🏔️ Mountain enthusiast: I draw inspiration from nature’s grandeur, particularly the mountains of Pakistan.  
+**[googlemapScraper](https://github.com/hydermbs/googlemapScraper)** — Google Maps business-listing scraper with email enrichment and stealth anti-bot browser fingerprinting (Python + Playwright).
 
----
+## Technical skills
 
-## 🛠️ Technical Skills  
+**Languages:** Python, SQL, JavaScript/TypeScript
 
-- **Programming:** Python, SQL, JavaScript  
-- **Data Tools:** Pandas, NumPy, Apache Spark, Airflow  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **Cloud Services:** AWS, Google Cloud Platform  
-- **Others:** APIs, Web Scraping (BeautifulSoup, Selenium), Git  
+**Data tools:** Pandas, NumPy, Apache Spark, Airflow
 
----
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis
 
-## 💡 What I’m Working On  
+**Cloud:** AWS, Google Cloud Platform
 
-- Building **data pipelines** to ensure seamless data flow.  
-- Exploring advanced **machine learning models** to enhance data insights.  
-- Automating repetitive tasks to boost productivity.  
+**Other:** Web scraping (BeautifulSoup, Scrapy, Playwright, Selenium), REST APIs, Docker, Git
 
----
+## Connect
 
-## 🌟 Fun Facts  
+**LinkedIn:** [Hyder Khan](https://www.linkedin.com/in/hyderghauri)
 
-- I enjoy **traveling**, especially to **mountainous regions**. My love for nature often inspires my problem-solving approach: **simple, elegant, and efficient.**  
-- A budding storyteller, I document my travel experiences with humor and vivid descriptions.  
-- You’ll often find me sipping tea while brainstorming solutions to data challenges.  
+**YouTube:** [Tech Khana](https://youtube.com/techkhana)
 
----
+**Website:** [hyder.im](https://hyder.im)
 
-## 📫 Let’s Connect  
-
-- **LinkedIn:** [Hyder Khan](https://www.linkedin.com/in/hyderghauri) 
-- **Email:** hydr-khan@hotmail.com
-- **YouTube:** [Tech Khana](https://youtube.com/techkhana)
-- **Website:** [hyder.im](https://hyder.im) 
-
----
-
-Let’s collaborate and create something amazing! 🚀  
-
-
-<!---
-hydermbs/hydermbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Email:** hydr-khan@hotmail.com
